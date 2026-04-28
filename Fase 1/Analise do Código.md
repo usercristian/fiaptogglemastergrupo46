@@ -1,0 +1,7 @@
+# Análise do código
+
+Analisando o código do repositório do ToggleMaster é visto que ele foi montado como um monolito. A gente percebe isso porque toda a lógica da plataforma, desde a parte de verificação de saúde até o gerenciamento das flags, está concentrada em um único arquivo `app.py`. Além disso o `Dockerfile` e o script de entrada mostram que a aplicação roda como um bloco único, sem separar as funções em servidores diferentes, apesar de que o Docker roda em containers diferentes, isso não garante resiliência da aplicação.
+
+Sobre usar essa estrutura para um MVP, a grande vantagem seria a velocidade de build, para quem está começando fazer um monolito isso permite focar na lógica de entrega sem ter que perder muito tempo com a comunicação entre vários serviços ou configurar várias ferramentas ou ambientes. É muito mais simples de rodar e testar, como o próprio README mostra com o Docker Compose. Sem contar que o custo na AWS acaba sendo menor no início, já que você não precisa de tantas instâncias.
+
+Mas em contrapartida o problema seria quando o sistema começar a crescer, pois se um pedaço da aplicação der problema ou tiver um bug pesado, o sistema inteiro pode cair e deixar tudo indisponível. Outro ponto é que a gente fica preso às tecnologias escolhidas no começo, se no futuro precisar de algo muito específico que o Python não resolva pode ser necessário um planejamento mais demorado para adaptar ou mudar a tecnologia.
