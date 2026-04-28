@@ -1,15 +1,27 @@
-Documentação
+# POSTECH DEVOPS E ARQUITETURA CLOUD
+## FIAP - 2026
 
-POSTECH DEVOPS E ARQUITETURA CLOUD
-FIAP - 2026
+### Tech Challenge - Fase 1
+**DCLT - Grupo 46**
 
+---
 
-POSTECH - DCLT - Tech Challenge - Fase 1
+### Recursos do Projeto
 
-Grupo 46: 
-Cristian Gadelha da Conceição
-Tiago Silva Martins
-Alexander Auerhahn Marcelino
-Alison Isidro Teotonio da Silva 
-Rodrigo Reis
+* **Apresentação em Vídeo:** [Assista aqui](https://www.youtube.com/watch?v=4H2QQSyD5bo)
+* **Diagrama de Arquitetura:**
+    ![Arquitetura da Solução](Fase%201/Diagrama.png)
 
+---
+
+### Identificação do Grupo
+
+| Nome | Função / Contato |
+| :--- | :--- |
+| Alexander Auerhahn Marcelino
+| Alison Isidro Teotonio da Silva
+| Cristian Gadelha da Conceição 
+| Rodrigo Reis
+| Tiago Silva Martins 
+
+---
