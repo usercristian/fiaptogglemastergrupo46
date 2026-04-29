@@ -7,6 +7,7 @@
 ### Recursos do Projeto
 
 * **Apresentação em Vídeo:** https://www.youtube.com/watch?v=4H2QQSyD5bo
+* **Comparação 12 Factor App:** [Comparação com 12 Factor App](Fase%201/12%20-%20Factor%20App.xlsx)
 * **Analise do Código:** [Analise do Código](Fase%201/Analise%20do%20Código.md)
 * **Diagrama de Arquitetura:** ![Arquitetura da Solução](Fase%201/Diagrama.png)
 * **Estimativa de Custos AWS:** [Print Estimativa de Custo AWS](Fase%201/EstimativaCustos.jpeg)
