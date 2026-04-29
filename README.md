@@ -6,7 +6,7 @@
 
 ### Recursos do Projeto
 
-* **Apresentação em Vídeo:** [Assistir www.youtube.com/watch?v=4H2QQSyD5bo](https://www.youtube.com/watch?v=4H2QQSyD5bo)
+* **Apresentação em Vídeo:** (https://www.youtube.com/watch?v=4H2QQSyD5bo)
 * **Analise do Código:** [Analise do Código](Fase%201/Analise%20do%20Código.md)
 * **Diagrama de Arquitetura:** ![Arquitetura da Solução](Fase%201/Diagrama.png)
 * **Estimativa de Custos AWS:** [Print Estimativa de Custo AWS](Fase%201/EstimativaCustos.jpeg)
